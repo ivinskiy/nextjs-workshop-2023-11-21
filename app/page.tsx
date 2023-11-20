@@ -32,6 +32,13 @@ export default function Home() {
           <li>5cj0lLjcoR7YOSnhnX0Po5</li>
           <li>0NyrvUybTePmsuED5vZi4G</li>
         </ul>
+        <p className="font-bold">
+          Endpoint for Task 2: https://api.spotify.com/v1/artists/{"{id}"}
+        </p>
+        <p className="font-bold">
+          Endpoint for Task 4: https://api.spotify.com/v1/artists/{"{id}"}
+          /albums
+        </p>
       </div>
 
       <div className="mb-32 flex justify-center text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
