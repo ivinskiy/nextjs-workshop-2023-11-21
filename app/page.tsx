@@ -1,5 +1,11 @@
 import Image from "next/image";
 
+// Welcome to the Next.js workshop!
+// An example of a fetch code block can be found here:
+// fetch( url, {headers: {
+//   "Authorization": `Bearer ${AUTH_TOKEN}`
+// }})
+
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
@@ -18,7 +24,12 @@ export default function Home() {
           Welcome to the NextJS workshop!
         </h2>
         <p>Use the links below to find information regarding Next.js!</p>
-        <p>Auth-token: Bearer {"Hello"} </p>
+        <p>
+          Auth-token: Bearer{" "}
+          {
+            "BQCByIMTlf0NYuGLMPKZ5Q01uw4XVcI4nKVKv5GkOCMp8zncXlUv79CdYw5E10M5G2vwU1gQP8JxGas3Br8FufTfYPWIeKZsjFVprXiSgyJdbw1tUTE"
+          }
+        </p>
         <p className="font-bold">Artist IDs for task 1 and 2:</p>
         <ul className="text-center">
           <li>06HL4z0CvFAxyc27GXpf02</li>
