@@ -27,7 +27,7 @@ export default function Home() {
         <p>
           Auth-token: Bearer{" "}
           {
-            "BQCByIMTlf0NYuGLMPKZ5Q01uw4XVcI4nKVKv5GkOCMp8zncXlUv79CdYw5E10M5G2vwU1gQP8JxGas3Br8FufTfYPWIeKZsjFVprXiSgyJdbw1tUTE"
+            "BQBnLAh5zSHSj1pOf31-JAhvHHIu1BlWRt_YtJAtQ1aalT5VeD0Sw70DTvAWGLISMQNnwJxYgrrfBixoNy0CM05jXH0GFBT3Dz4LK3KRuojy8ev0VGM"
           }
         </p>
         <p className="font-bold">Artist IDs for task 1 and 2:</p>
